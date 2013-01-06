@@ -97,7 +97,7 @@ enum Classes
 {
     CLASS_NONE          = 0,
     CLASS_SHINIGAMI     = 1, // Genesis - Pushed classes down; added Shinigami class
-    CLASS_WARRIOR       = 2,
+    CLASS_WARRIOR       = 2, // Ascathor - Reserved
     CLASS_PALADIN       = 3,
     CLASS_HUNTER        = 4,
     CLASS_ROGUE         = 5,
